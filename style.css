@@ -1,0 +1,17 @@
+img{
+    border: 1px solid;
+    border-radius: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+h1,p{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+}
